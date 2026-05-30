@@ -1,0 +1,1 @@
+# Device-Deactivation-Key-V1
