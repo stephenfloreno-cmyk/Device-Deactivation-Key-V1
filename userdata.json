@@ -17,7 +17,7 @@
      "device_id": "43515da0051da0b1",
         "key": "KEY-302094-50305",
         "expirydate": "15-06-2027",
-        "Allowoffline": true  
-}
+        "Allowoffline": false 
+    }
 
 ]
